@@ -1,6 +1,5 @@
 # Java-Interview-Preparation
-RoadMap -> Java Interview Preparation
-These are the topics that needs to be revised before interviews
+RoadMap -> Java Interview Preparation. These are the topics that needs to be revised before interviews
 
 1. Be thorough with the OOPs Principles
 2. Java String - workaround and practise
